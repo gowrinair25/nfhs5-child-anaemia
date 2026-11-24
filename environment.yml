@@ -17,4 +17,6 @@ dependencies:
   - scikit-learn
   - python=3.11
   - pyarrow
+  - esda
+  - libpysal
 prefix: /home/loki/miniforge3/envs/nfhs-anaemia
