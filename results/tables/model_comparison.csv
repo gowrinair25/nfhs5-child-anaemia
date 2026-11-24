@@ -1,0 +1,8 @@
+experiment,model,auroc,auroc_ci_low,auroc_ci_high,auprc,brier,n_children
+"A: unseen districts, all children",logistic,0.662,0.6581,0.666,0.7831,0.2048,183855
+"A: unseen districts, all children",lightgbm,0.6628,0.6583,0.6665,0.7849,0.2046,183855
+"A: unseen districts, complete cases",logistic,0.6632,0.6593,0.6674,0.7825,0.2055,171919
+"A: unseen districts, complete cases",lightgbm,0.6639,0.66,0.6674,0.7843,0.2054,171919
+"A: unseen districts, complete cases",glmer,0.6827,0.6768,0.6885,0.7964,0.2009,171919
+"B: unseen states, all children",logistic,0.6591,0.6553,0.6631,0.7811,0.2054,183855
+"B: unseen states, all children",lightgbm,0.6595,0.6553,0.6631,0.7827,0.2054,183855
