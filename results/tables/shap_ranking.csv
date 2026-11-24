@@ -1,0 +1,15 @@
+,mean_abs_shap,direction,rank
+child_age_months,0.4083,-1.0,1
+mother_anaemic,0.2833,1.0,2
+stunted,0.1402,1.0,3
+mother_edu,0.1111,-1.0,4
+improved_sanitation,0.0849,-1.0,5
+mother_age,0.055,-1.0,6
+wealth_q,0.0361,1.0,7
+birth_order,0.0332,1.0,8
+ifa_pregnancy,0.0217,,9
+child_female,0.0203,-1.0,10
+diarrhoea_2wk,0.0138,1.0,11
+clean_fuel,0.0137,1.0,12
+rural,0.0127,1.0,13
+fever_2wk,0.0091,1.0,14
