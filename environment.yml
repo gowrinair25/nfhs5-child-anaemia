@@ -1,0 +1,20 @@
+name: nfhs-anaemia
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-arrow
+  - pandas
+  - shap
+  - r-base
+  - jupyter
+  - lightgbm
+  - r-survey
+  - r-lme4
+  - geopandas
+  - pyreadstat
+  - matplotlib
+  - scikit-learn
+  - python=3.11
+  - pyarrow
+prefix: /home/loki/miniforge3/envs/nfhs-anaemia

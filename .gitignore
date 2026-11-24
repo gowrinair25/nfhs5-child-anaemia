@@ -1,0 +1,8 @@
+data/
+*.DTA
+*.dta
+*.zip
+*.parquet
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
