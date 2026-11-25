@@ -1,13 +1,6 @@
 """Predict child anaemia in places the models have never seen.
 
-Experiment A: district hold-out, 5 folds of whole districts (the `fold` column).
-Experiment B: leave-one-state-out, train on 35 states/UTs and test on the 36th.
 
-Models: logistic regression (baseline) and LightGBM. The multilevel model's
-out-of-fold predictions from R/multilevel.R join the comparison in experiment A.
-
-Run from the project root (takes about 15-30 minutes):
-    python src/models.py
 """
 from pathlib import Path
 
