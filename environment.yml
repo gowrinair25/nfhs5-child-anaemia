@@ -19,4 +19,4 @@ dependencies:
   - pyarrow
   - esda
   - libpysal
-prefix: /home/loki/miniforge3/envs/nfhs-anaemia
+
