@@ -3,8 +3,6 @@
 # Uses the NFHS-5 sample weights, clusters (PSUs) and strata so that
 # prevalence and odds ratios are valid for all Indian children aged 6-59 months.
 #
-# Run from the project root:
-#   Rscript R/stats.R
 
 suppressPackageStartupMessages({
   library(survey)
