@@ -5,10 +5,7 @@
 # adjusted odds ratios, and out-of-fold predictions for unseen districts that
 # src/models.py compares with the ML models.
 #
-# This model is unweighted and model-based; R/stats.R is design-based.
 #
-# Run from the project root (takes 20-40 minutes):
-#   Rscript R/multilevel.R
 
 suppressPackageStartupMessages({
   library(lme4)
